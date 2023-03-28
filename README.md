@@ -20,4 +20,4 @@ git clone git@github.com:wasps101/js-wordle-clone.git
 
 ## Лицензия 
 
-[GNU General Public License v3.0](https://github.com/wasps101/js-wordle-clone/blob/main/LICENSE)cle
+[GNU General Public License v3.0](https://github.com/wasps101/js-wordle-clone/blob/main/LICENSE)
