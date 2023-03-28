@@ -24,6 +24,7 @@ git clone https://github.com/wasps101/js-wordle-clone.git
 ### Дополнительная информация
 
 В качестве словаря для проекта был использован словарь [WebstersEnglishDictionary](https://github.com/matthewreagan/WebstersEnglishDictionary) пользователя [@matthewreagan](https://www.github.com/matthewreagan)
+Словарь был очищен от всех вхождений длиной не в 5 символов и вхождений, содержащих дефис.
 
 ## Лицензия 
 
