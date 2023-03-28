@@ -4,10 +4,17 @@
 
 ### Установка
 
+Создайте локальную директорию, где вы будете хранить проект и перейдите в нее с помощью команды cd
+
+```bash
+cd my-directory
+// my-directory - это имя вашей директории
+```
+
 Скопируйте репозиторий к себе с помощью команды:
 
 ```bash
-git clone git@github.com:wasps101/js-wordle-clone.git
+git clone https://github.com/wasps101/js-wordle-clone.git
 ```
 
 ### Использование
