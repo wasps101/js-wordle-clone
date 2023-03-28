@@ -21,6 +21,10 @@ git clone https://github.com/wasps101/js-wordle-clone.git
 
 Запустите проект с помощью локального сервера (например, Apache). Проект не работает с локальной машины, так как функция fetch конфликтует политикой CORS браузера.
 
+### Демонстрационная версия
+
+Вы можете воспользоваться слегка измененной под возможности CodePen версией проекта: [Демонстрационная версия в CodePen](https://codepen.io/wasps101/pen/xxaeGYo?editors=0010)
+
 ### Дополнительная информация
 
 В качестве словаря для проекта был использован словарь [WebstersEnglishDictionary](https://github.com/matthewreagan/WebstersEnglishDictionary) пользователя [@matthewreagan](https://www.github.com/matthewreagan). 
